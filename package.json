@@ -38,7 +38,7 @@
     "csv-parse": "1.0.2",
     "express": "4.16.3",
     "express-session": "1.15.6",
-    "forever": "0.15.3",
+    "forever": "2.0.0",
     "glob": "5.0.15",
     "helmet": "3.12.1",
     "json2csv": "4.1.3",
