@@ -5,7 +5,7 @@
   "main": "projectDataUpdate.js",
   "dependencies": {
     "mongodb": "^3.0.7",
-    "monk": "^6.0.5"
+    "monk": "^7.0.0"
   },
   "devDependencies": {},
   "scripts": {
