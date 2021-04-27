@@ -62,13 +62,13 @@
     "request-promise-native": "1.0.5",
     "rss": "1.2.2",
     "serve-favicon": "2.5.0",
-    "socket.io": "2.0.4",
+    "socket.io": "3.0.0",
     "spooky": "0.2.5",
     "swig": "1.4.2",
     "tiny-jsonrpc": "2.0.1",
     "tree-model": "1.0.7",
     "uid-safe": "2.1.5",
-    "validator": "9.4.1"
+    "validator": "13.6.0"
   },
   "devDependencies": {
     "babel-core": "6.26.3",
